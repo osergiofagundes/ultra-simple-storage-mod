@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "chestnet:block/storage_hub"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "itemGroup.chestnet": "Chest Network",
+  "block.chestnet.storage_hub": "Storage Hub",
+  "block.chestnet.network_cable": "Network Cable",
+  "block.chestnet.chest_connector": "Chest Connector",
+  "container.chestnet.storage_hub": "Storage Hub — Chest Network",
+  "gui.chestnet.search": "Search items...",
+  "gui.chestnet.total": "Total: %s",
+  "gui.chestnet.sort.name": "Sort by name (A-Z)",
+  "gui.chestnet.sort.amount_desc": "Sort by amount: most first",
+  "gui.chestnet.sort.amount_asc": "Sort by amount: least first"
+}

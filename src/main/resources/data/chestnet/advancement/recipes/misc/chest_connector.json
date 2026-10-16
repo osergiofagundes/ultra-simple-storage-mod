@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_network_cable": {
+      "conditions": {
+        "items": [
+          {
+            "items": "chestnet:network_cable"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "chestnet:chest_connector"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_network_cable"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "chestnet:chest_connector"
+    ]
+  }
+}

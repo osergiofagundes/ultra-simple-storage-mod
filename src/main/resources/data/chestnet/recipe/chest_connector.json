@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "C": "chestnet:network_cable",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "chestnet:chest_connector",
+    "count": 4
+  }
+}

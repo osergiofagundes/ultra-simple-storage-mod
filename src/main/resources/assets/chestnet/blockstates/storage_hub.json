@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up": { "model": "chestnet:block/storage_hub" },
+    "facing=down": { "model": "chestnet:block/storage_hub", "x": 180 },
+    "facing=north": { "model": "chestnet:block/storage_hub", "x": 90 },
+    "facing=south": { "model": "chestnet:block/storage_hub", "x": 90, "y": 180 },
+    "facing=east": { "model": "chestnet:block/storage_hub", "x": 90, "y": 90 },
+    "facing=west": { "model": "chestnet:block/storage_hub", "x": 90, "y": 270 }
+  }
+}

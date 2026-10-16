@@ -1,0 +1,16 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" }, "apply": { "model": "chestnet:block/chest_connector" } },
+    { "when": { "facing": "south" }, "apply": { "model": "chestnet:block/chest_connector", "y": 180 } },
+    { "when": { "facing": "west" }, "apply": { "model": "chestnet:block/chest_connector", "y": 270 } },
+    { "when": { "facing": "east" }, "apply": { "model": "chestnet:block/chest_connector", "y": 90 } },
+    { "when": { "facing": "up" }, "apply": { "model": "chestnet:block/chest_connector", "x": 270 } },
+    { "when": { "facing": "down" }, "apply": { "model": "chestnet:block/chest_connector", "x": 90 } },
+    { "when": { "north": "true" }, "apply": { "model": "chestnet:block/network_cable_arm" } },
+    { "when": { "south": "true" }, "apply": { "model": "chestnet:block/network_cable_arm", "y": 180 } },
+    { "when": { "west": "true" }, "apply": { "model": "chestnet:block/network_cable_arm", "y": 270 } },
+    { "when": { "east": "true" }, "apply": { "model": "chestnet:block/network_cable_arm", "y": 90 } },
+    { "when": { "up": "true" }, "apply": { "model": "chestnet:block/network_cable_arm", "x": 270 } },
+    { "when": { "down": "true" }, "apply": { "model": "chestnet:block/network_cable_arm", "x": 90 } }
+  ]
+}

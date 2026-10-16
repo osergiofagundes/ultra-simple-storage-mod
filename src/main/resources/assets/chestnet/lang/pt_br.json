@@ -1,0 +1,12 @@
+{
+  "itemGroup.chestnet": "Rede de Baús",
+  "block.chestnet.storage_hub": "Mesa Hub",
+  "block.chestnet.network_cable": "Cabo de Rede",
+  "block.chestnet.chest_connector": "Conector de Baú",
+  "container.chestnet.storage_hub": "Mesa Hub — Rede de Baús",
+  "gui.chestnet.search": "Pesquisar itens...",
+  "gui.chestnet.total": "Total: %s",
+  "gui.chestnet.sort.name": "Ordenar por nome (A-Z)",
+  "gui.chestnet.sort.amount_desc": "Ordenar por quantidade: maior primeiro",
+  "gui.chestnet.sort.amount_asc": "Ordenar por quantidade: menor primeiro"
+}

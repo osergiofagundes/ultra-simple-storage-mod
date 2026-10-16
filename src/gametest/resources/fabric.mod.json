@@ -1,0 +1,16 @@
+{
+	"schemaVersion": 1,
+	"id": "chestnet-test",
+	"version": "1.0.0",
+	"name": "Chest Network — testes automáticos",
+	"environment": "client",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"com.sergiofagundes.chestnet.test.ChestNetClientGameTest"
+		]
+	},
+	"depends": {
+		"chestnet": "*",
+		"fabric-client-gametest-api-v1": "*"
+	}
+}

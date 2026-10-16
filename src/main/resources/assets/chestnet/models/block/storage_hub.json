@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "chestnet:block/storage_hub_top",
+    "bottom": "chestnet:block/storage_hub_bottom",
+    "side": "chestnet:block/storage_hub_side"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "SSS"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "S": "minecraft:smooth_stone"
+  },
+  "result": {
+    "id": "chestnet:network_cable",
+    "count": 16
+  }
+}

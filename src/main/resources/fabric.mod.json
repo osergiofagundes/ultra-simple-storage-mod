@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "chestnet",
+	"version": "${version}",
+	"name": "Ultra Simple Storage",
+	"description": "Conecte seus baús a uma Mesa Hub usando cabos e conectores, e acesse todos os itens em um só lugar.",
+	"authors": [
+		"Sergio Fagundes"
+	],
+	"license": "MIT",
+	"icon": "assets/chestnet/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.sergiofagundes.chestnet.ChestNet"
+		],
+		"client": [
+			"com.sergiofagundes.chestnet.client.ChestNetClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

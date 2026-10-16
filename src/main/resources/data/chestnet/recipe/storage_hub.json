@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "RCR",
+    "SIS"
+  ],
+  "key": {
+    "S": "minecraft:smooth_stone",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "C": "minecraft:chest"
+  },
+  "result": {
+    "id": "chestnet:storage_hub"
+  }
+}
